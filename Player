@@ -1,96 +1,85 @@
+157849650   Common     1K C$     17 C$/s
+2340925612  Common     500 C$     8 C$/s
+570036141   Common     800 C$    13 C$/s
+2685309578  Common     400 C$     7 C$/s
+5690066649  Common     600 C$    10 C$/s
+2303659702  Common     300 C$     5 C$/s
+1315890282  Common     200 C$     3 C$/s
+1459119647  Common     200 C$     3 C$/s
+5695819352  Common     200 C$     3 C$/s
+7979262813  Common     250 C$     4 C$/s
+7478347422  Common     400 C$     7 C$/s
+8221094081  Common     1K C$    17 C$/s
+7341344928  Common     500 C$     8 C$/s
+7861049538  Common     750 C$    13 C$/s
+7935750206  Common     350 C$     6 C$/s
+6210953560  Common     200 C$     3 C$/s
+1676664458  Common     900 C$    15 C$/s
+7975431858  Common     350 C$     6 C$/s
+7042706575  Common     600 C$    10 C$/s
+7205986654  Common     650 C$    11 C$/s
+4113199996  Common     200 C$     3 C$/s
+7900185285  Common     800 C$    13 C$/s
+1548888242  Common     950 C$    16 C$/s
+3801457495  Common     550 C$     9 C$/s
+5761022455  Common     450 C$     8 C$/s
 
-157849650 Common 1k C$ 200 C$/s
-2340925612 Common 500 C$ 140 C$/s
-570036141 Common 800 C$ 190 C$/s
-2685309578 Common 400 C$ 150 C$/s
-5690066649 Common 600 C$ 140 C$/s
-2303659702 Common 300 C$ 120 C$/s
-1315890282 Common 200 C$ 50 C$/s
-1459119647 Common 200 C$ 40 C$/s
-5695819352 Common 200 C$ 45 C$/s
-7979262813 Common 250 C$ 60 C$/s
-7478347422 Common 400 C$ 100 C$/s
-8221094081 Common 1000 C$ 200 C$/s
-7341344928 Common 500 C$ 150 C$/s
-7861049538 Common 750 C$ 200 C$/s
-7935750206 Common 350 C$ 50 C$/s
-6210953560 Common 200 C$ 30 C$/s
-1676664458 Common 900 C$ 250 C$/s
-7975431858 Common 350 C$ 80 C$/s
-7042706575 Common 600 C$ 100 C$/s
-7205986654 Common 650 C$ 160 C$/s
-4113199996 Common 200 C$ 40 C$/s
-7900185285 Common 800 C$ 200 C$/s
-1548888242 Common 950 C$ 200 C$/s
-3801457495 Common 550 C$ 100 C$/s
-5761022455 Common 450 C$ 100 C$/s
+4701821211  Uncommon   20K C$   167 C$/s
+1586364704  Uncommon   15K C$   125 C$/s
+3901192534  Uncommon    5K C$    42 C$/s
+4496399356  Uncommon    3K C$    25 C$/s
+5657042113  Uncommon   10K C$    83 C$/s
+4683084978  Uncommon   20K C$   167 C$/s
+8135917527  Uncommon   15K C$   125 C$/s
+8708982089  Uncommon    5K C$    42 C$/s
+5547844230  Uncommon    2K C$    17 C$/s
+7334719086  Uncommon    2K C$    17 C$/s
+1858205328  Uncommon   50K C$   417 C$/s
+2947698227  Uncommon   40K C$   333 C$/s
+3076325454  Uncommon   44K C$   367 C$/s
+8121529071  Uncommon   20K C$   167 C$/s
+4935245057  Uncommon   10K C$    83 C$/s
+8228012652  Uncommon    2K C$    17 C$/s
+7620269685  Uncommon    3K C$    25 C$/s
+1523296266  Uncommon    4K C$    33 C$/s
 
+22641473    Rare      480K C$  2 000 C$/s
+286990923   Rare      400K C$  1 667 C$/s
+1308667116  Rare      350K C$  1 458 C$/s
+3754247719  Rare      300K C$  1 250 C$/s
+1131584379  Rare      200K C$    833 C$/s
+482958016   Rare      400K C$  1 667 C$/s
+6148785136  Rare      100K C$    417 C$/s
+102804410   Rare      100K C$    417 C$/s
+2327218614  Rare       80K C$    333 C$/s
+1181973342  Rare      120K C$    500 C$/s
+1312530134  Rare      300K C$  1 250 C$/s
+4331065250  Rare       50K C$    208 C$/s
 
+392524468   Legendary 450M C$   938K C$/s
+5352357     Legendary 480M C$ 1 000K C$/s
+3162757020  Legendary 400M C$   833K C$/s
+19717956    Legendary 350M C$   729K C$/s
+19823479    Legendary 380M C$   792K C$/s
+1912490     Legendary 300M C$   625K C$/s
+500634389   Legendary 100M C$   208K C$/s
+8371621714  Legendary 100M C$   208K C$/s
 
-
-
-
-
-
-4701821211 Uncommon 20k C$ 1k C$/s
-1586364704 Uncommon 15k C$ 1k C$/s
-3901192534 Uncommon 5k C$ 700 C$/s
-4496399356 Uncommon 3k C$ 300 C$/s
-5657042113 Uncommon 10k C$ 500 C$/s
-4683084978 Uncommon 20k C$ 1k C$/s
-8135917527 Uncommon 15k C$ 600 C$/s
-8708982089 Uncommon 5k C$ 400 C$/s
-5547844230 Uncommon 2k C$ 300 C$/s
-7334719086 Uncommon 2k C$ 300 C$/s
-1858205328 Uncommon 50k C$ 4k C$/s
-2947698227 Uncommon 40k C$ 3k C$/s
-3076325454 Uncommon 44k C$ 3k C$/s
-8121529071 Uncommon 20k C$ 1k C$/s
-4935245057 Uncommon 10k C$ 500 C$/s
-8228012652 Uncommon 2k C$ 300 C$/s
-7620269685 Uncommon 3k C$ 300 C$/s
-1523296266 Uncommon 4k C$ 300 C$/s
-
-
-22641473 Rare 480k C$ 10k C$/s
-286990923 Rare 400k C$ 9k C$/s
-1308667116 Rare 350k C$ 9k C$/s
-3754247719 Rare 300k C$ 9k C$/s
-1131584379 Rare 200k C$ 7k C$/s
-482958016 Rare 400k C$ 9k C$/s
-6148785136 Rare 100k C$ 5k C$/s
-102804410 Rare 100k C$ 5k C$/s
-2327218614 Rare 80k C$ 6k C$/s
-1181973342 Rare 120k C$ 5k C$/s
-1312530134 Rare 300k C$ 15k C$/s
-4331065250 Rare 50k C$ 3k C$/s
-
-
-392524468 Legendary 450M C$ 48k C$/s
-5352357 Legendary 480M C$ 49k C$/s
-3162757020 Legendary 400M C$ 45k C$/s
-19717956 Legendary 350M C$ 45k C$/s
-19823479 Legendary 380M C$ 40k C$/s
-1912490 Legendary 300M C$ 35k C$/s
-500634389 Legendary 100M C$ 20k C$/s
-8371621714 Legendary 100M C$ 20k C$/s
-
-
-204415172 Mythic 10B C$ 100k C$/s
-16550536 Mythic 9.8B C$ 98k C$/s
-24622973 Mythic 9.5B C$ 100k C$/s
-100952125 Mythic 9.5B C$ 98k C$/s
-1235757687 Mythic 9B C$ 100k C$/s
-7627847305 Mythic 9B C$ 93k C$/s
-1670665422 Mythic 9.3B C$ 97k C$/s
-3431354790 Mythic 7.8B C$ 93k C$/s
-78161047 Mythic 7.5B C$ 89k C$/s
-7205597 Mythic 8.2B C$ 95k C$/s
-1168567856 Mythic 8.5B C$ 92k C$/s
-425901043 Mythic 8.3B C$ 88k C$/s
-1241716715 Mythic 8B C$ 95k C$/s
-78372589 Mythic 7.2B C$ 90k C$/s
-8645047 Mythic 7B C$ 90k C$/s
-10916243 Mythic 7.9B C$ 84k C$/s
-153877217 Mythic 6B C$ 80k C$/s
-1702041 Mythic 5.8B C$ 77k C$/s
+204415172   Mythic    10B C$ 10 417K C$/s
+16550536    Mythic     9.8B C$ 10 208K C$/s
+24622973    Mythic     9.5B C$  9 896K C$/s
+100952125   Mythic     9.5B C$  9 896K C$/s
+1235757687  Mythic     9B C$    9 375K C$/s
+7627847305  Mythic     9B C$    9 375K C$/s
+1670665422  Mythic     9.3B C$  9 688K C$/s
+3431354790  Mythic     7.8B C$  8 125K C$/s
+78161047    Mythic     7.5B C$  7 813K C$/s
+7205597     Mythic     8.2B C$  8 542K C$/s
+1168567856  Mythic     8.5B C$  8 854K C$/s
+425901043   Mythic     8.3B C$  8 646K C$/s
+1241716715  Mythic     8B C$    8 333K C$/s
+78372589    Mythic     7.2B C$  7 500K C$/s
+8645047     Mythic     7B C$    7 292K C$/s
+10916243    Mythic     7.9B C$  8 229K C$/s
+153877217   Mythic     6B C$    6 250K C$/s
+1702041     Mythic     5.8B C$  6 042K C$/s
